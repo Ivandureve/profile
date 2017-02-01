@@ -1,0 +1,76 @@
+body {
+    background-image: url("img/background.jpg");
+    background-color: #253B6E;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+h1, h2, h3, p, a {
+  color: #D2ECF9;
+}
+
+h1, h2, h3{
+  font-family: 'Butterfly Kids', cursive;
+}
+
+p, a {
+ font-family: 'Gloria Hallelujah', cursive;
+ text-decoration: none;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+p {
+  margin-top: 0px;
+}
+
+#profile {
+  width: 10%;
+  border-radius: 50%;
+  border: 5px solid black;
+}
+
+.picplane {
+  width: 200%;
+  margin: 10px;
+  border: 3px solid white;
+  border-radius: 20%;
+}
+
+div {
+  padding: 30px;
+  margin-top:5%;
+  margin-left:15%;
+  margin-right: 15%;
+  border: 5px dotted white;
+  background-color: #1F5F8B;
+  opacity: 0.9;
+}
+
+.plane p {
+  margin-bottom: 50px;
+  text-align: justify;
+}
+
+.info a {
+  font-size: 60px;
+}
+
+th.space {
+  padding-left: 20%;
+}
